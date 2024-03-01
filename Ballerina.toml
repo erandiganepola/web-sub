@@ -4,6 +4,6 @@
 [package]
   distribution = "2201.4.1"
   name = "asgardeo_create_user"
-  org = "hasintha"
+  org = "erandisaorg"
   version = "0.1.0"
 
